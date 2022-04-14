@@ -1,0 +1,21 @@
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.styleChess
+{
+    margin: auto; /*table to screen*/
+    border: 1px solid black;
+    border-collapse:collapse;
+    width: 500px;
+    height: 500px;;
+}
+
+td{
+    padding: 40px; /*squre at same size*/
+}
